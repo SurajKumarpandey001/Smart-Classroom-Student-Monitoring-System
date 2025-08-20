@@ -65,9 +65,9 @@ Emotion monitoring for student well-being.
 Instructor feedback and personalized intervention.
 
 👨‍💻 Author
-Ch Atul Kumar Prusty
-📷 Linkedin: [https://www.linkedin.com/in/chatulkumarprusty/]
-📧 Email: [chatulprusty@gmail.com]
+Suraj Kumar
+📷 Linkedin: [https://www.linkedin.com/in/suraj-kumar-0136522a6/]
+📧 Email: [surajkumarpandey.ds@gmail.com]
 
 
 ---
